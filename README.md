@@ -55,7 +55,6 @@ All insights are supported by visualizations and summarized with concise interpr
 
 ## 📂 Repository Structure
 
-
 ```text
 ds_sumit/
 ├── notebook_1.ipynb          # Main Google Colab notebook          
@@ -65,6 +64,7 @@ ds_sumit/
 │   └── *.png
 ├── ds_report.pdf             # Final summarized insights (3–5 pages)
 └── README.md                 # Project overview and instructions
+
 ---
 
 ## 🔗 Google Colab Notebooks
