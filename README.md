@@ -58,8 +58,7 @@ All insights are supported by visualizations and summarized with concise interpr
 
 ```text
 ds_sumit/
-├── notebook_1.ipynb          # Main Google Colab notebook
-├── notebook_2.ipynb          # (Optional) Additional analysis
+├── notebook_1.ipynb          # Main Google Colab notebook          
 ├── csv_files/                # Processed / intermediate datasets
 │   └── *.csv
 ├── outputs/                  # Saved charts and visualizations
