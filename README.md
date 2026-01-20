@@ -56,15 +56,14 @@ All insights are supported by visualizations and summarized with concise interpr
 ## 📂 Repository Structure
 
 ds_sumit/
-├── notebook_1.ipynb # Main Google Colab notebook
-├── notebook_2.ipynb # (Optional) Additional analysis
-├── csv_files/ # Processed / intermediate datasets
-│ └── *.csv
-├── outputs/ # Saved charts and visualizations
-│ └── *.png
-├── ds_report.pdf # Final summarized insights (3–5 pages)
-└── README.md # Project overview and instructions
-
+├── notebook_1.ipynb          # Main Google Colab notebook
+├── notebook_2.ipynb          # (Optional) Additional analysis
+├── csv_files/                # Processed / intermediate datasets
+│   └── *.csv
+├── outputs/                  # Saved charts and visualizations
+│   └── *.png
+├── ds_report.pdf             # Final summarized insights (3–5 pages)
+└── README.md                 # Project overview and instructions
 
 ---
 
