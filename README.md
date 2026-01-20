@@ -69,8 +69,7 @@ ds_sumit/
 
 ## 🔗 Google Colab Notebooks
 
-- **Notebook 1:**
-https://colab.research.google.com/drive/1Fs_jAtp2oud_jwnaAzf77ytcAasGc-W9?usp=sharing  
+- **Notebook 1:** https://colab.research.google.com/drive/1Fs_jAtp2oud_jwnaAzf77ytcAasGc-W9?usp=sharing
 
 📌 Access set to **“Anyone with the link → Viewer”**
 
